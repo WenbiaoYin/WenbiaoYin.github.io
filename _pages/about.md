@@ -23,7 +23,7 @@ Currently, I am currently a researcher at Alibaba's Tongyi Lab. My research focu
 
 ## Web Agents
 
-* **[WebShaper: Agentically Data Synthesizing viaInformation-Seeking Formalization]**
+* **WebShaper: Agentically Data Synthesizing viaInformation-Seeking Formalization**
   <br>
   Zhengwei Tao∗, Jialong Wu∗, **Wenbiao Yin<sup>✉️</sup>**, Junkai Zhang, Baixuan Li, Haiyang Shen, Kuan Li, Liwen Zhang, Xinyu Wang, Yong Jian, Pengjun Xie, Fei Huang, Jingren Zhou
   <br>
@@ -32,7 +32,7 @@ Currently, I am currently a researcher at Alibaba's Tongyi Lab. My research focu
 
 
 
-* **[WebSailor: Navigating Super-human Reasoning for Web Agent]**
+* **WebSailor: Navigating Super-human Reasoning for Web Agent**
   <br>
   Kuan Li∗, Zhongwang Zhang∗, Huifeng Yin∗, Liwen Zhang∗, Litu Ou∗, Jialong Wu, **Wenbiao Yin**, Baixuan Li, Zhengwei Tao, Xinyu Wang, Weizhou Shen, Junkai Zhang, Dingchu Zhang, Xixi Wu, Yong Jiang, Ming Yan, Pengjun Xie, Fei Huang, Jingren Zhou
   <br>
@@ -41,7 +41,7 @@ Currently, I am currently a researcher at Alibaba's Tongyi Lab. My research focu
 
 
 
-* **[WebDancer: Towards Autonomous Information Seeking Agency]**
+* **WebDancer: Towards Autonomous Information Seeking Agency**
   <br>
   Jialong Wu∗, Baixuan Li∗, Runnan Fang∗, **Wenbiao Yin<sup>*✉️</sup>**, Liwen Zhang, Zhengwei Tao, Dingchu Zhang, Zekun Xi, Gang Fu, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou
   <br>
@@ -49,7 +49,7 @@ Currently, I am currently a researcher at Alibaba's Tongyi Lab. My research focu
 
 
 
-* **[WebWalker: Benchmarking LLMs in Web Traversal]**
+* **WebWalker: Benchmarking LLMs in Web Traversal**
   <br>
   Jialong Wu, **Wenbiao Yin**, Yong Jiang, Zhenglin Wang, Zekun Xi, Runnan Fang, Linhai Zhang, Yulan He, Deyu Zhou, Pengjun Xie, Fei Huang
   <br>
