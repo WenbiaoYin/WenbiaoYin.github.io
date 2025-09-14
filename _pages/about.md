@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am currently a researcher at Alibaba's Tongyi Lab. My research focuses on **Web Agents** and **Large Language Models (LLMs)**. I received my M.E. from Nanjing University in 2024 and my B.E. from the South China University of Technology in 2021.
+Currently, I am a researcher at Alibaba's Tongyi Lab. My research focuses on **Web Agents** and **Large Language Models (LLMs)**. I received my M.E. from Nanjing University in 2024 and my B.E. from the South China University of Technology in 2021.
 
 
 
