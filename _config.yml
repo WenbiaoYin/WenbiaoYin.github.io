@@ -23,7 +23,7 @@ repository               : "WenbiaoYin/WenbiaoYin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Wenbiao Yin(尹文彪)" # &name from above
   pronouns         : # example: "she/her"  
   bio              : "Researcher at Alibaba Tongyi Lab"
