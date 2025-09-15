@@ -43,7 +43,7 @@ Currently, I am a researcher at Alibaba's Tongyi Lab. My research focuses on **W
 
 * **WebDancer: Towards Autonomous Information Seeking Agency**
   <br>
-  Jialong Wu∗, Baixuan Li∗, Runnan Fang∗, **Wenbiao Yin<sup>*✉️</sup>**, Liwen Zhang, Zhengwei Tao, Dingchu Zhang, Zekun Xi, Gang Fu, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou
+  Jialong Wu∗, Baixuan Li∗, Runnan Fang∗, **Wenbiao Yin**<sup>*✉️</sup>, Liwen Zhang, Zhengwei Tao, Dingchu Zhang, Zekun Xi, Gang Fu, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou
   <br>
   In *[PrePrint]* [2025]. [[Download paper]]([https://arxiv.org/pdf/2505.22648]) [[code]]([https://github.com/Alibaba-NLP/WebAgent])
 
